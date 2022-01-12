@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on ...
 
-Blockchain 
-Solidity
+--Blockchain 
+--Solidity
 Ethereum
 Smart Contracts 
 Python 
