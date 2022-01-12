@@ -1,4 +1,4 @@
-### Hello! 👋
+### My Research / Tech Interests
 
 🔭🔭 These are my research / tech interests, and things I’m currently working on ...
 
