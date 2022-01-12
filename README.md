@@ -1,6 +1,6 @@
 ### Welcome
 
-[![BJWgithubLogo](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenGIFintro.png)](https://github.com/benjaminweymouth)
+[![BJWgithubLogo](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenGIFintro2.gif)](https://github.com/benjaminweymouth)
 
 ### My Research / Tech Interests
 
