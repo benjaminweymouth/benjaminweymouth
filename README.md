@@ -1,3 +1,7 @@
+### Welcome
+
+[![BJWgithubLogo](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenGIFintro.png)](https://github.com/benjaminweymouth)
+
 ### My Research / Tech Interests
 
 These are my research / tech interests, and things I’m currently working on ...
