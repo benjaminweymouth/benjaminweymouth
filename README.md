@@ -2,15 +2,11 @@
 
 🔭🔭 These are my research / tech interests, and things I’m currently working on ...
 
-- Blockchain 
-- Solidity
-- Ethereum
-- Smart Contracts 
-- Python 
-- Jupyter Notebooks
-- Machine Learning
-- Data Science
-- Neural Networks 
+- FinTech: fintech programming and analysis
+- Blockchain: Ethereum, BitCoin, HyperLedger, and more!  
+- Solidity: programming Smart Contracts for the Ethereum Blockchain
+- Python : Python for FinTech, Data Science, Analysis, and General Purpose Programming
+- Machine Learning / Data Science / Neural Networks 
 
 
 🧰 🧰 My Tech Stack
