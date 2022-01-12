@@ -2,15 +2,15 @@
 
 🔭 I’m currently working on ...
 
---Blockchain 
---Solidity
-Ethereum
-Smart Contracts 
-Python 
-Jupyter Notebooks
-Machine Learning
-Data Science
-Neural Networks 
+- Blockchain 
+- Solidity
+- Ethereum
+- Smart Contracts 
+- Python 
+- Jupyter Notebooks
+- Machine Learning
+- Data Science
+- Neural Networks 
 
 
 🧰 My Tech Stack
