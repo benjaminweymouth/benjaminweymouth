@@ -1,6 +1,9 @@
-### Welcome
+
 
 [![BJWgithubLogo](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenGIFintro2.gif)](https://github.com/benjaminweymouth)
+### Welcome to my GitHub Page! 
+
+Welcome! Here you will find various repos, my interests and perhaps our technology interests will intertwine and intersect. 
 
 ### My Research / Tech Interests
 
