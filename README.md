@@ -1,6 +1,6 @@
 ### My Research / Tech Interests
 
-🔭🔭 These are my research / tech interests, and things I’m currently working on ...
+These are my research / tech interests, and things I’m currently working on ...
 
 - FinTech: fintech programming and analysis
 - Blockchain: Ethereum, BitCoin, HyperLedger, and more!  
