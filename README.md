@@ -24,7 +24,7 @@ These are my research / tech interests, and things I’m currently working on ..
  
  
 
- [![StackShare](https://user-images.githubusercontent.com/47256041/153262878-b9840baa-5c61-4dc4-8e40-8f5cc57c874a.png](https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
+ [![StackShare](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenStackShare.png](https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
  
  ### Other Software Projects and Collaborative efforts: 
 
