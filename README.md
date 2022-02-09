@@ -22,9 +22,9 @@ These are my research / tech interests, and things I’m currently working on ..
  
  ### My Stack Share io (Click image for the entire stack) 
  
- <a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
  
- [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/benjaminweymouth/ethdapp)
+
+ [![StackShare](https://user-images.githubusercontent.com/47256041/153262878-b9840baa-5c61-4dc4-8e40-8f5cc57c874a.png](https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
  
  ### Other Software Projects and Collaborative efforts: 
 
