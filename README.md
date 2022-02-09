@@ -22,7 +22,9 @@ These are my research / tech interests, and things I’m currently working on ..
  
  ### My Stack Share io (Click image for the entire stack) 
  
- [![BJWgithubLogo](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenStackShare.png)]( https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
+ 
+ 
+ [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/benjaminweymouth/ethdapp)
  
  ### Other Software Projects and Collaborative efforts: 
 
