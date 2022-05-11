@@ -24,6 +24,8 @@ These are my research / tech interests, and things I’m currently working on ..
  
  [![StackShare](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenStackShare.png)](https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
  
+ https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b
+ 
  [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminweymouth)](https://github.com/benjaminweymouth/github-readme-stats)
 
  
