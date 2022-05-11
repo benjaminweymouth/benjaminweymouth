@@ -26,6 +26,8 @@ These are my research / tech interests, and things I’m currently working on ..
  
  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/benjaminweymouth/my-stack)
  
+ <a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+ 
 
  [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminweymouth)](https://github.com/benjaminweymouth/github-readme-stats)
 
